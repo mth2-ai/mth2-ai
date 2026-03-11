@@ -5,7 +5,7 @@
 - 💻 Atualmente estou trabalhando em projetos de IoT, automação e tecnologia
 - 🌱 Atualmente estou aprendendo C#, Arduino, bancos de dados e sistemas embarcados
 - 🤝 Estou procurando colaborar em projetos de inovação tecnológica
-- 🧠 Estou procurando ajuda com desenvolvimento de hardware e software
+- 🧠 Estou procurando ajuda com desenvolvimento em projetos de codigo
 - 💬 Pergunte-me sobre IoT, tecnologia, inovação e programação
 - 📫 Como entrar em contato comigo: Instagram ou WhatsApp
 - 👑 Pronomes: Ele
